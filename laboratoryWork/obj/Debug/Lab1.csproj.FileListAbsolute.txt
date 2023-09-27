@@ -1,0 +1,32 @@
+D:\unn\Graph\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\unn\Graph\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\unn\Graph\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\unn\Graph\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\unn\Graph\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\unn\Graph\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\unn\Graph\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\unn\Graph\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\unn\Graph\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\unn\Graph\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Dragonsnom\Desktop\Новая папка\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Dragonsnom\Desktop\Новая папка\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Dragonsnom\Desktop\Новая папка\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Dragonsnom\Desktop\Новая папка\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Dragonsnom\Desktop\Новая папка\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Dragonsnom\Desktop\Новая папка\Lab1\Lab1\obj\Debug\Lab1.HistogramWindowcs.resources
+C:\Users\Dragonsnom\Desktop\Новая папка\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Dragonsnom\Desktop\Новая папка\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Dragonsnom\Desktop\Новая папка\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Dragonsnom\Desktop\Новая папка\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Dragonsnom\Desktop\Новая папка\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\University\CompGraphics\ComputerGraph_Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\University\CompGraphics\ComputerGraph_Lab1\Lab1\bin\Debug\Lab1.exe
+D:\University\CompGraphics\ComputerGraph_Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\University\CompGraphics\ComputerGraph_Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\University\CompGraphics\ComputerGraph_Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\University\CompGraphics\ComputerGraph_Lab1\Lab1\obj\Debug\Lab1.HistogramWindowcs.resources
+D:\University\CompGraphics\ComputerGraph_Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\University\CompGraphics\ComputerGraph_Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\University\CompGraphics\ComputerGraph_Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\University\CompGraphics\ComputerGraph_Lab1\Lab1\obj\Debug\Lab1.exe
+D:\University\CompGraphics\ComputerGraph_Lab1\Lab1\obj\Debug\Lab1.pdb
